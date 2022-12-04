@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "457781207396",
+    "project_id": "blocauth-27536",
+    "storage_bucket": "blocauth-27536.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457781207396:android:65412459d3a2ef36095a71",
+        "android_client_info": {
+          "package_name": "com.example.blocauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457781207396-jcnmj28orcueo6s4rc5tjknp3rmbdv8o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.blocauth",
+            "certificate_hash": "4ac3cb8509e0de4420659c425d53a7c11693307c"
+          }
+        },
+        {
+          "client_id": "457781207396-4kdbkduufk216mr80ohkc7p5ka0pli6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaxqBFyX2EZeZHIzGWYB0aD2ApnhRxqNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457781207396-4kdbkduufk216mr80ohkc7p5ka0pli6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
